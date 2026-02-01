@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+firebase-admin
+agora-token-builder
+pydantic
